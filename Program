@@ -1,0 +1,8 @@
+Angle=float(input('What is the angle? ')
+Term=0
+while Term<100:
+      oneorminusone=(-1)^Term
+      anglepowertwoterm=Angle^(Term*2)
+      loopcount=Term*2
+      while loopcount>0:
+       
